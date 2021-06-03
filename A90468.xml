@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect list of all the victories obtained by the Lord General Cromwel from the time that his excellency was made Captain General and Commander in Cheif of the Parliament forces in England, Ireland, and Scotland, (against Charles Stuart King of the Scots, and his forces in the three nations,) to this present time.</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90468</idno><idno type="EEBO-CITATION">99870122</idno>
+  <idno type="VID">122514</idno>
+  <idno type="EEBO-PROQUEST">2240951763</idno>
+  
+            <idno type="STC">Wing P1490</idno>
+            <idno type="STC">Thomason 669.f.16[27]</idno>
+            <idno type="STC">ESTC R211393</idno>
+            <idno type="PROQUEST">99870122</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870122e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122514)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect list of all the victories obtained by the Lord General Cromwel from the time that his excellency was made Captain General and Commander in Cheif of the Parliament forces in England, Ireland, and Scotland, (against Charles Stuart King of the Scots, and his forces in the three nations,) to this present time.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (port.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "October 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Military --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:122514:1"/>
+            <head>A perfect List of all the Victories obtained by the Lord General Cromwel, from the time that his Excellency was made Captain General and Commander in Cheif of the Parliament Forces in <hi>England, Ireland,</hi> and <hi>Scotland,</hi> (against <hi>Charles Stuart</hi> King of the <hi>Scots,</hi> and his Forces in the three Nations,) to this present time.</head>
+            <p>
+               <figure>
+                  <figDesc>image of General Cromwell dressed in armor, while another man ties a sash around his waist</figDesc>
+                  <figure>
+                     <figDesc>blazon or coat of arms</figDesc>
+                  </figure>
+                  <p>The Portrayture of His Excel<seg rend="sup">cie</seg>: Oliver Crumwell Cap<seg rend="sup">t</seg>: Gen<seg rend="sup">all</seg>: &amp; Commander in chief of all y<seg rend="sup">e</seg> Forces of y<seg rend="sup">e</seg> Comon-weale of Engl. Scot. &amp; Irel. chancell<seg rend="sup">•</seg> of y<seg rend="sup">e</seg> Universitie of Oxford &amp;c.</p>
+               </figure>
+            </p>
+            <div type="act">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii 26 June 1650.</date>
+                  </dateline>
+               </opener>
+               <head>An Act of the Parliament of <hi>England,</hi> for constituting of <hi>OLIVER CROM<g ref="char:EOLhyphen"/>WEL</hi> Esq; to be Captaine Generall, and Commander in cheife of all the Parliaments Forces rai<g ref="char:EOLhyphen"/>sed and to be raised, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>HEREAS by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, <hi>Thomas</hi> Lord <hi>Fairfax,</hi> by the name of Sir <hi>Thomas Fairfax,</hi> Knight, was constituted and or<g ref="char:EOLhyphen"/>dained Commander in cheife of the Forces in the said Ordinance appointed to bee raised. And whereas by Act of this present Parliament, the said <hi>Thomas</hi> Lord <hi>Fairfax</hi> was constituted and appointed Captain Generall, and Commander in cheif of the Ar<g ref="char:EOLhyphen"/>mies and Forces raised and to be raised by Authority of Parliament, within the Commonwealth of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Both which Commissions were upon the 26 day of <hi>June,</hi> 1650. surrendred and delivered up to the Parli<g ref="char:EOLhyphen"/>liament.</p>
+               <p>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it Enacted and Ordained by this present Par<g ref="char:EOLhyphen"/>liament, and by Authority thereof, that from and after the 26 of <hi>June,</hi> 1650. the said Ordinance and Act before recited, and every the Powers and Autho<g ref="char:EOLhyphen"/>rityes given or granted unto him as Commander in cheife, or Captaine Generall, in or by them, or either of them, or by any other Act, Ordinance or Order of Parliament as Commander in cheife, or Captain Gene<g ref="char:EOLhyphen"/>ral, be and are hereby repealed, annulled, and made void to all intents and purposes. Provided alwayes, And it is further Enacted, that all and every Commis<g ref="char:EOLhyphen"/>sion and Commissions granted or issued by, or under the said <hi>Thomas</hi> Lord <hi>Fairfax</hi> as Commander in cheife or Captain Generall by Vertue of the Ordinance and Act before recited, or either of them, or of any other Act, Ordinance, or Order of Parliament, and which were in force the 24 of <hi>June</hi> 1650. be and shal be continued. And are hereby declared to be in full force, untill such time as <hi>Oliver Cromwell</hi> Esq; now Captaine Generall and Commander in cheife, of all the Forces raised and to be raised by Authority of Parliament within the Commonwealth of <hi>England</hi> shall renue or alter the same.</p>
+               <closer>
+                  <signed>Hen. Scobell Cleric. Parliamenti.</signed>
+               </closer>
+            </div>
+            <div type="propositions">
+               <opener>
+                  <dateline>
+                     <date>Anno Jubilee 1650</date>
+                  </dateline>
+               </opener>
+               <head>Propositions from <hi>CHARLES</hi> King of <hi>SCOTLAND,</hi> presented to Pope <hi>Innocent</hi> the Tenth.</head>
+               <p n="1">1. THat your Holinesse would make an annuall supply out of your own Treasury, unto the said <hi>Charles</hi> the Second, of considerable summes of mo<g ref="char:EOLhyphen"/>ny, suitable to the maintaining the Warre against those Rebells against God, the Church, and Monar<g ref="char:EOLhyphen"/>chy.</p>
+               <p n="2">2 That you would cause and compell the whole benificed Clergy in the World, of whatsoever Dignity, Degree, State, or Condition soever, to contribute, the third or the fourth part of all their Fruits, Rents Pro<g ref="char:EOLhyphen"/>venues, or Emoluiments to the said War, as being U<g ref="char:EOLhyphen"/>niversall and Catholick. And that the said Contribu<g ref="char:EOLhyphen"/>tion may be payed every three months or otherwise, as shall seem most expedient to your Holinesse.</p>
+               <p n="3">3 That by your Apostolick Nuncioes, your Holi<g ref="char:EOLhyphen"/>nesse would most instantly indeavour with Princes, Commonwealths, and Catholicke States, that the said Princes, Commonwealths, and States, may be admo<g ref="char:EOLhyphen"/>nished in the bowells of Jesus Christ, and induced to enter into, and conclude a Universall Peace; and that they wil unitedly supply the said King. And that they will by no means acknowledge the said Regicides and Tyrants for a Common-wealth, or State, nor enter into or have any Commerce with them.</p>
+               <p n="4">4 That by the said Nuncioes, or any other way, all and every the Monarchs of all <hi>Europe,</hi> may be timely admonished, and made sensible in this Cause, wherein besides the detriment of the Faith, their owne proper interest is concerned. The foresaid Tyrants being sworne Enemies to al Monarchie, as they themselves do openly assert, both by word and writing; and to that end, both in <hi>Germany, Spain, France, Polonia, &amp;c.</hi> And in the very Dominions of the great <hi>Turke,</hi> they have raised dangerous Insurrections, being raised, they foment them; and to that purpose they supply the charge and make large contributions to it.</p>
+               <p n="5">5 That your Holinesse would command under pain of Excommunication, <hi>ipso facto,</hi> all and singular Ca<g ref="char:EOLhyphen"/>tholiques, that neither they nor any of them, directly nor indirectly, by Land or by Sea, to serve them in Armes, or to assist them by any Councell, or helpe to favour or supply them any way under whatsoever pre<g ref="char:EOLhyphen"/>text.</p>
+               <closer>All which will bear your Holinesse to Heaven with their prayers, whom God long conserve in safety, &amp;c.</closer>
+            </div>
+            <div type="list">
+               <p>ON 1 June, 1650. <hi>Charles Stuart,</hi> Son of the late King, had agreed with the Scots to be their King; and was come to them in Person, but by the provi<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of God kept out of <hi>England.</hi>
+               </p>
+               <p n="2">2 The Marquesse of <hi>Ormond</hi> chief for him in Ire<g ref="char:EOLhyphen"/>land, was opposed by the Lord Deputy <hi>Ireton.</hi>
+               </p>
+               <p n="3">3 <hi>Owen Ro<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Neale</hi> dyed.</p>
+               <p n="4">4 <hi>Evan Mac Mahon</hi> Bishop of Clogher, opposed by the Lord Deputy <hi>Ireton.</hi>
+               </p>
+               <p n="5">5 Sir <hi>Charles Coote</hi> defeated the Irish Army in Ul<g ref="char:EOLhyphen"/>ster, and killed, 1. B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shop, 2. Maj. Generals, 1. Lord, 4. Collonels, 6. Lieut. Collonels, and above 2000. more, and himself Bishop of Clogher taken Prisoner.</p>
+               <p n="6">6 Severall Garrisons in Ulster reduced.</p>
+               <p n="7">7 On July 1. Barwick and Carlisle on the borders of Scotland secured.</p>
+               <p n="8">8 Forces drawn forth for Scotland.</p>
+               <p n="9">9 Supplyes sent for Ireland.</p>
+               <p n="10">10 On the 13 Col. <hi>Ingoldsby</hi> routed 3000. of the Irish comming over the Shannon, and slew 900.</p>
+               <p n="11">11 Doct. <hi>Lewen</hi> was, July 16 condemned to be hanged for Listing of Forces by Commission from <hi>Charles Stuart.</hi>
+               </p>
+               <p n="12">12 The Earle of <hi>Derby</hi> being made Governour of the Isle of Man, some of his Children and Servants were taken prisoners at Liverpoole.</p>
+               <p n="13">13 Tecroghan in Ireland surrendred to the Lord Deputy <hi>Ireton.</hi>
+               </p>
+               <p n="14">14 The Lord Generall <hi>Cromwell</hi> entred into Scot<g ref="char:EOLhyphen"/>land, July 22.</p>
+               <p n="15">15 On the 26. the Lord Gen. possessed Dunbar.</p>
+               <p n="16">16 The 30 and 31 of July, <hi>Montgomery</hi> defeated by Maj. Gen. <hi>Lambert</hi> at Gladsmore, 1 Col. and 60. more slaine, Sir <hi>Thomas Nairn,</hi> with 80. prisoners: And 15. Troops routed.</p>
+               <p n="17">17 500. Foot routed in Scotland neare Mus<g ref="char:EOLhyphen"/>cleborough.</p>
+               <p n="18">18 Aug. 1. The Scots fled towards Edenburgh.</p>
+               <p n="19">19 Col. <hi>Okey</hi> took 120 horse.</p>
+               <p n="20">20 The City of Waterford in Ireland surrendred.</p>
+               <p n="21">21. Aug. 11. at night, part of the Army marched to Musleborough againe, which caused the Scots (who were drawn that way) to fly towards Edenburgh.</p>
+               <p n="22">22 The enemy sallied out at Charlemount, and were beaten in againe with losse, the Castle and Fort were both reduced by Sir <hi>Charles Coote.</hi>
+               </p>
+               <p n="23">23 <hi>Eusebius Andrews</hi> beheaded, for listing Forces for the Scots King.</p>
+               <p n="24">24 The English pitched their Tents at Pencland Hils in Scotland, in view of Edenburgh.</p>
+               <p n="25">25 The Fort of Duncanon in Ireland surrendred.</p>
+               <p n="26">26 Aug. 24. The Castle of Carlow surrendred.</p>
+               <p n="27">27 Caterlagh surrendred to Sir <hi>Charls Coote.</hi>
+               </p>
+               <p n="28">28. The province of Ulster reduced.</p>
+               <p n="29">29 Aug. 24. Red-house in Scotland taken by storme, Col. <hi>Hambleton,</hi> and a Laird, a Knight, and a Major, with 60. more Prisoners, 3 sling peeces in it.</p>
+               <p n="30">30 Collington house taken.</p>
+               <p n="31">31 Aug. 28. His Excellency marched Westward, giving the Scots severall Skirmishes.</p>
+               <p n="32">32 The Scots worsted at Haddington.</p>
+               <p n="33">33 Sept. 3. 1650. the Lord was pleased to give his Excellency that memorable victory neare Dunbar in Scotland, 3000. slaine, 10000. taken prisoners, Lieut. Gen. Sir <hi>James Lomsden,</hi> Adj. Gen. <hi>James Bick<g ref="char:EOLhyphen"/>erton,</hi> Col. Sir <hi>Will. Douglas,</hi> Col. <hi>Will. Lomsden,</hi> Col. <hi>Gourdon,</hi> and 11 Lieut. Collonels, 9 Majors, 47 Cap<g ref="char:EOLhyphen"/>taines, 7 Captain Lieutenants, 70 Lieutenants, 12 Cornets, 79 Ensignes, 30 Guns. 15000. Armes, 200. Collours.</p>
+               <p n="34">34 Edenburgh City in Scotland possessed by his Excellency.</p>
+               <p n="35">35 Leith Garrison possessed also</p>
+               <p n="36">36 Douglas Castle left by the Scots.</p>
+               <p n="37">37 Faus Castle quit.</p>
+               <p n="38">38 The Scots forced from Howm Castle.</p>
+               <p n="39">39 Halis Castle quit.</p>
+               <p n="40">40 The Scots forced from Cothingham Abbey.</p>
+               <p n="41">41 Sir <hi>Jo. Gell</hi> and others apprehended in England.</p>
+               <p n="42">42 200. taken of the Scots Western recruites.</p>
+               <p n="43">43 The L. Deputy of Ireland tooke 3000. Cowes in Wicklow, and cleared some woods of Tories.</p>
+               <p n="44">44 His Excellency, Sept. 15. possessed Lin Lithgow.</p>
+               <p n="45">45 Dundasse taken.</p>
+               <p n="46">46 Sept. 23. six English Officers disserted the Scots.</p>
+               <p n="47">47 The Army alarmed Sterling.</p>
+               <p n="48">48 Octob. 1. The Scots quit Crawford Castle.</p>
+               <p n="49">49 The Scots driven from Lowdon, and the Merch.</p>
+               <p n="50">50 Istrome Castle quit.</p>
+               <p n="51">51 Godward Castle left.</p>
+               <p n="52">52 An out-Guard taken neare Edenburgh Castle, and 200. Muskets, 16 barrels of Powder, 66 bundles and Bandeleers, 200 Swords, 200 Halberts, 300 Pikes, and two load of Match.</p>
+               <p n="53">53 Dalkeith taken.</p>
+               <p n="54">54 The Lord <hi>Lauderdales</hi> House taken.</p>
+               <p n="55">55. Eden-week house taken.</p>
+               <p n="56">56 The Scots dispersed neare Torscheane.</p>
+               <p n="57">57 The Garrison of Kilsith taken.</p>
+               <p n="58">58 Glasgow entred.</p>
+               <p n="59">59 Octob. 18. The Garrison of Leviston taken.</p>
+               <p n="60">60 Novemb. 1. Com. Gen. <hi>Whalley</hi> in Scotland re<g ref="char:EOLhyphen"/>turned with Recruits from Carlisle.</p>
+               <p n="61">61 Nesbit taken and retaken.</p>
+               <p n="62">62. Darlton-house taken in Scotland, Major <hi>Hambleton,</hi> Capt. <hi>Waite,</hi> and two Mosse-Troopers shot to death, 60 prisoners, and 100 horse taken.</p>
+               <p n="63">63 <hi>Clanrickard</hi> defeated in Ireland, 500 drove into the Shannon.</p>
+               <p n="64">64 500 Drowned at Forbawn, &amp; the Castle retaken.</p>
+               <p n="65">65 Killogan Castle relieved.</p>
+               <p n="66">66. The Earle of <hi>Clanrickard</hi> raised from the siege at <hi>Ber.</hi>
+               </p>
+               <p n="67">67. Three Passes taken to Meleeke Island.</p>
+               <p n="68">68 <hi>Clanrickard</hi> routed at Meleeke, 200 horse taken.</p>
+               <p>68 Ber-Castle relieved.</p>
+               <p n="70">70 Cary Castle quit and fired by the Irish.</p>
+               <p n="71">71 Streamestowne-Castle quit and fired.</p>
+               <p n="72">72 Clogan Castle quit and fired.</p>
+               <p n="73">73 The forces of Dungan driven from Thomas town.</p>
+               <p n="74">74 Nenagh-Castle taken.</p>
+               <p n="75">75 Divers Townes taken in Scotland, and with them an Elder of a Kirke.</p>
+               <p n="76">76. Rosband-Castle neer Pencland hills taken by Col. <hi>Munke.</hi>
+               </p>
+               <p n="77">77 The Rebells in Norfolke that rise with <hi>Rastall, Smith, Kitchinman, Powell,</hi> &amp;c. totally defeated by Col. <hi>Rich.</hi>
+               </p>
+               <p n="78">78 Col. <hi>Axtell</hi> tooke a Hold neere Kilkenny in Ire<g ref="char:EOLhyphen"/>land by storme, a Major, 3 Captains, 20 other Officers, and 120 private souldiers prisoners.</p>
+               <p n="79">79 Borthwick Castle in Scotland reduced.</p>
+               <p n="80">80 Col. <hi>Ker</hi> driven from the Peebles to the Moun<g ref="char:EOLhyphen"/>taines.</p>
+               <p n="81">81 December 1. Major Generall <hi>Lambert</hi> got over Hambleton River.</p>
+               <p n="82">82 Col. <hi>Ker</hi> repulsed at Hambleton.</p>
+               <p n="83">83 Major Gen: <hi>Lambert</hi> routed the Scots, killed 100. whereof five persons of note, took 150 prisoners, Col. <hi>Ker</hi> himselfe was taken, and his Lieutenant Col. and Col. <hi>Straughans</hi> Major, and neer 20 other Officers, 400 Horse, 1000 Armes.</p>
+               <p n="84">84. Major Gen: <hi>Mountgomery</hi> repulsed.</p>
+               <p n="85">85 <hi>Ayres</hi> a Port Towne taken, 20 prisoners, Mr. <hi>A<g ref="char:EOLhyphen"/>dare</hi> Minister of the place, and another Scots Minister.</p>
+               <p n="86">86 Col. <hi>Straughan,</hi> the Laird <hi>Swinton,</hi> Mr. <hi>Jefferies,</hi> Mr. <hi>Castare,</hi> Cap. <hi>Griffin,</hi> and about 60 others of note, divers being Officers deserted the Scots King, and came in to his Excellency.</p>
+               <p n="87">87 100 Horse taken of Col: <hi>Kerres</hi> neere <hi>Ayres.</hi>
+               </p>
+               <p n="88">88 Some Granadoes were shot into <hi>Edenburgh</hi> Ca<g ref="char:EOLhyphen"/>stle and did much terrifie the enemy.</p>
+               <p n="89">89 The <hi>Scots</hi> beaten neere Galloway to the Moun<g ref="char:EOLhyphen"/>taines.</p>
+               <p n="90">90 December 23. a Woollen-Draper of <hi>Colchester</hi> and five more of the Mutineres in <hi>Norfolk</hi> were hang<g ref="char:EOLhyphen"/>ed, being condemned by the High Court of Justice at <hi>Norwich.</hi>
+               </p>
+               <p n="91">91 December 21. divers killed and wounded in E<g ref="char:EOLhyphen"/>denburgh Castle.</p>
+               <p n="92">92 On the 24. The Castle of Edenburgh, surrend<g ref="char:EOLhyphen"/>red, with 5 French brasse Canons, peeces of 7. 9 Dutch brasse halfe Canon, 2 brasse Culverins, 2 Brasse DemiCulverins, 2 brasse Minions, 3 brasse half Canons, 2 brasse Falcons, 28 brasse Draks, called Monkies, 3 great Iron Murderers, called muckle Megs, 4 Iron Ord<g ref="char:EOLhyphen"/>nance, 10 Iron Drakes, 2 petards, 8000 Arms, 70 ba<g ref="char:EOLhyphen"/>rells of powder, and great store of Cannon shot and other Ammunition and provisions.</p>
+               <p n="93">93. 400 <hi>Scots</hi> with some Lords and Gentlemen dis<g ref="char:EOLhyphen"/>persed from <hi>Dumfrieze.</hi>
+               </p>
+               <p n="94">94. The 22 the Lord <hi>Kinmores</hi> Castle surrendred.</p>
+               <p n="95">95. <hi>Kellebright</hi> taken, and three Barrells of Powder, Match proportionably, and many Armes.</p>
+               <p n="96">96 Kenmore Castle taken with divers Arms, 8 bar<g ref="char:EOLhyphen"/>rels of powder, Match and ball proportionable, great store of Meale and Beefe.</p>
+               <p n="97">97 Five other of the Mutineers were executed at se<g ref="char:EOLhyphen"/>verall places in Norfolke.</p>
+               <p n="98">98 The Lords of <hi>Ormond</hi> and <hi>Inchequeen</hi> with Colonels <hi>Ʋanghan, Walker, Warren,</hi> and some twenty considerable persons left <hi>Ireland.</hi>
+               </p>
+               <p n="99">99 Divers of the Toryes slaine by Col. <hi>Hewson</hi> Go<g ref="char:EOLhyphen"/>vernour of <hi>Dublin</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="100">100 <hi>Musgrave</hi> and <hi>David Roch</hi> driven up to Kerry Mountaines by Col. <hi>Ingoldsby.</hi>
+               </p>
+               <p n="101">101 <hi>Muslow</hi>-Castle taken, and the Governour slain.</p>
+               <p n="102">102 A party of the <hi>Scots</hi> routed neer <hi>Kilkowbrey,</hi> di<g ref="char:EOLhyphen"/>vers slaine and taken, and 40 Horse taken.</p>
+               <p n="103">103 <hi>Kilkowbrey</hi> an Haven Towne in <hi>Scotland</hi> taken, with the Castle and divers prisoners.</p>
+               <p n="104">104 <hi>Cunmore</hi> house taken, with 30 prisoners, 8 bar<g ref="char:EOLhyphen"/>rells of powder, store of Armes.</p>
+               <p n="105">105 <hi>January</hi> 1: Some <hi>Scots</hi> on the Borders submit to the Power of <hi>England,</hi> though it was the day on which their King was Crowned,</p>
+               <p n="106">106 The <hi>Scots</hi> repulsed at <hi>Leithgow.</hi>
+               </p>
+               <p n="107">107 Capt. <hi>Twiddy</hi> and divers <hi>Scots</hi> taken that lay scattered in Ambuscadoes.</p>
+               <p n="108">108 A party of Dragoones taken, and foure Iron Guns neere <hi>Kilkowbrey.</hi>
+               </p>
+               <p n="109">109 Col. <hi>Hewson</hi> scattered a party of <hi>Irish</hi> command<g ref="char:EOLhyphen"/>ed by Col. <hi>Borne.</hi>
+               </p>
+               <p n="110">110 <hi>David Lesley</hi> forced to retreat back to <hi>Sterling.</hi>
+               </p>
+               <p n="111">111. Nine more were executed at severall places in <hi>Norfolke</hi> for the Rebellion.</p>
+               <p n="112">112 <hi>Febr. 1. Hume</hi>-Castle in <hi>Scotland</hi> besieged.</p>
+               <p n="113">113 <hi>Hume</hi>-Castle taken by storme, a Captaine, a Lieutenant, an Ensigne, 2 Sergeants, 5 Corporalls, a Drummer and 65 souldiers prisoners.</p>
+               <p n="114">114 <hi>Tantallon</hi>-Castle besieged.</p>
+               <p n="115">115 A great Alarum given to the <hi>Scots</hi> in <hi>Fife.</hi>
+               </p>
+               <p n="116">116 <hi>Ruthen</hi> Generall of the <hi>Scots</hi> dyed.</p>
+               <p n="117">117 Mr. <hi>John Dury</hi> and other Ministers deserted the Scots King.</p>
+               <p n="118">118 Some Scots taken prisoners.</p>
+               <p n="119">119 Sir <hi>Hardresse Waller</hi> relieved severall Garrisons in <hi>Kerry</hi> in <hi>Ireland.</hi>
+               </p>
+               <p n="120">120 The <hi>Irish</hi> Rebells dispersed.</p>
+               <p n="121">121 Divers small Garrisons taken in the County of <hi>Kerry.</hi>
+               </p>
+               <p n="122">122 A party of the Irish defeated and many slaine in their fastnesses upon the Confines of <hi>Limbrick.</hi>
+               </p>
+               <p n="123">123 The Lord Deputy prevented the joyning of the <hi>Irish</hi> in <hi>Tiperary.</hi>
+               </p>
+               <p n="124">124 <hi>Castlehaven</hi> with neere 4000 Irish, forced to the great Bogge <hi>Monealy.</hi>
+               </p>
+               <p n="125">125 <hi>Castlehaven</hi> pursued to <hi>Marcborough.</hi>
+               </p>
+               <p n="126">126 <hi>Castlehaven</hi> pursued to <hi>Ber.</hi>
+               </p>
+               <p n="127">127 <hi>Castlehaven</hi> forced to fly to <hi>Connaught.</hi>
+               </p>
+               <p n="128">128 Divers Toryes dispersed.</p>
+               <p n="129">129 The Castle of <hi>Mackrom</hi> relieved, and the Irish forced to burne their Engines, Ladders, and other im<g ref="char:EOLhyphen"/>plements of war.</p>
+               <p n="130">130 The Inhabitants of <hi>Aberdeene</hi> fell on the Scots souldiers that plundred, and kild and wounded divers.</p>
+               <p n="131">131 The Scots burnt most part of Tantallon town, and 1000 <hi>li.</hi> worth of Corne.</p>
+               <p n="132">132 Forty and odd Toryes slaine in Ireland.</p>
+               <p n="133">133 Sir <hi>Henry Hide,</hi> and Captain <hi>Browne Bushell,</hi> that had bin taken were tryed, and condemned to be beheaded.</p>
+               <p n="134">134 Col. <hi>Venables</hi> reduced severall places in the Clandboyes in Ireland.</p>
+               <p n="135">135 Feb. 21. Tantallon-Castle in Scotland taken, with 95 pri<g ref="char:EOLhyphen"/>soners, 12 good Horses, 15 great Guns.</p>
+               <p n="136">136 Faus-Castle surrendred.</p>
+               <p n="137">137 Divers more of the Scots came dayly into the Parliaments Quarters.</p>
+               <p n="138">138 <hi>March</hi> 1. A party of the Scots that sallied out neer Black<g ref="char:EOLhyphen"/>nesse, were defeated by Col, <hi>Sidnham.</hi>
+               </p>
+               <p n="139">139 Blacknesse Garrison quit by the Scots.</p>
+               <p n="140">140 Callender-house quit.</p>
+               <p n="141">141 Five Garrisons neere Lithgow quit.</p>
+               <p n="142">142 3000 Irish in the Kings County driven back by Colonell <hi>Hewson.</hi>
+               </p>
+               <p n="143">143 Five thousand at Finough forced to retreat.</p>
+               <p n="144">144 <hi>Clanrickard</hi> with the Connaught Army kept back.</p>
+               <p n="145">145 Divers Garrisons in Westmeath reduced.</p>
+               <p n="146">146 One Williams, and divers others in South-Wales ap<g ref="char:EOLhyphen"/>prehended.</p>
+               <p n="147">147 Divers of the Scots that privately murthered some of our men, were hanged, and some of their houses pulled downe, others burnt, and a Gallows set up in place thereof, and severall Pari<g ref="char:EOLhyphen"/>shes fined.</p>
+               <p n="148">148 Col. <hi>Lilburne</hi> tooke two of the King of Scots Agents with papers of notable discoveries.</p>
+               <p n="149">149 <hi>Massey</hi> drive back to Sterling.</p>
+               <p n="150">150 A party of the Scots forced back from Lithgow, <hi>David Lesh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies</hi> Captaine-Leiutenant taken.</p>
+               <p n="151">151 Col. <hi>Reynolds</hi> drove back the Irish from a Garrison neere Kilkenny.</p>
+               <p n="152">152 The Castle of Kilbridge in Ireland reduced by Colonell <hi>Hewson</hi>
+               </p>
+               <p n="153">153 Tutestowne, Mullinger, quit and burnt.</p>
+               <p n="154">154 Donooe in Westmeath taken by Com: Gen: <hi>Reynolds,</hi> neere 1000 Barrells of Corne.</p>
+               <p n="156">156 Ballemore taken.</p>
+               <p n="157">157 Nugent House reduced,</p>
+               <p n="158">158 Ballimallock reduced.</p>
+               <p n="159">159 The Castle of Laugher besidged,</p>
+               <p n="160">160 March 14 Laughar quit and some Irish drowned.</p>
+               <p n="161">161 The Irish driven back from Finagh.</p>
+               <p n="162">162 A passe taken within Musket shot of Finagh-Castle.</p>
+               <p n="163">163 The Castle of Finagh stormed.</p>
+               <p n="164">164 Sir <hi>Theophilus Iones</hi> routed the Irish, Col. <hi>Alex Mac Donnell,</hi> a Leiut Colonell, a Major, 12 Captaines, 12 Lieutenants, 16 En<g ref="char:EOLhyphen"/>signes, with other Officers, and 373 private souldiers.</p>
+               <p n="165">165 The Towne of Casltehaven in Ireland reduced.</p>
+               <p n="166">166 The Towne of Mahoan reduced.</p>
+               <p n="167">167 Very great prey taken from the enemy by Sir Cha: Coot.</p>
+               <p n="168">168 Finnagh-Castle in Ireland surrendred, Major <hi>Davis</hi> the Governour prisoner.</p>
+               <p n="169">169 Many apprehended in severall places in England.</p>
+               <p n="170">170 A strong Passe taken neere Inchgarvey in Scotland.</p>
+               <p n="171">171 Aprill 1. 1651. Blacknesse formerly a Prison in Scotland, surrendred to Col, <hi>Munke.</hi>
+               </p>
+               <p n="172">172 A party of the Scots driven back into Sterling.</p>
+               <p n="173">173 Eglington taken.</p>
+               <p n="174">174 Dunbarton taken, the Earle of <hi>Eglinton</hi> and his sonne, and Col. <hi>Camell,</hi> and other prisoners, with about thirty horse and rich booty.</p>
+               <p n="175">175 Col. <hi>Florence Fitz-Patrick</hi> defeated in Ireland, himselfe slaine, and his Lieut. and Ensigne, with 30 more.</p>
+               <p n="176">176 Mr. <hi>Cooke</hi> taken and retaken, and the Lord <hi>Shandoyes,</hi> the Lord <hi>Becham,</hi> the Lord <hi>Bellacis,</hi> and divers others of the chief in the plot for the Scots King in England were apprehended.</p>
+               <p n="177">177 Taken in severall Counties in England, the Lord <hi>Moli<g ref="char:EOLhyphen"/>neux,</hi> Sir <hi>Tho: Trallop,</hi> Col. <hi>Coney,</hi> Col. <hi>Tharoll,</hi> Col. <hi>Booth,</hi> Mr. <hi>Will: Ashrust,</hi> Col. <hi>Egerton,</hi> Mr. <hi>Skaresbrooke,</hi> Mr. <hi>Sandirke,</hi> Mr. <hi>Alex: Queene,</hi> Col, <hi>Holland,</hi> Col. <hi>Bradshaw,</hi> Mr. <hi>Atherton,</hi> and divers o<g ref="char:EOLhyphen"/>thers.</p>
+               <p n="178">178 20 Officers from Amsterdam taken Prisoners in Scotland.</p>
+               <p n="179">179 Aprill 14. The Lord <hi>Cranston</hi> was repulsed at Lithgow.</p>
+               <p n="180">180 Sir <hi>Cha: Coot</hi> had severall good successes against parties of the Irish in Connaught.</p>
+               <p n="181">181 The Scots Alarumed all along Fife side.</p>
+               <p n="182">182 <hi>Cunney</hi> Islands neere Scilly taken by Gen: <hi>Blague.</hi>
+               </p>
+               <p n="183">183 Brice Island taken.</p>
+               <p n="184">184 Treasce with the Fort taken by storme, 25 peece of Ord<g ref="char:EOLhyphen"/>nance, and 166 prisoners, 20 slaine, and 40 drowned.</p>
+               <p n="185">185 Hambleton town taken by his Excellency.</p>
+               <p n="186">186 Severall houses nere Sterling quit.</p>
+               <p n="187">187 His Excellency againe possest of Glasco.</p>
+               <p n="188">188 Grimsby the harbour at Scilly taken by Gen: <hi>Blague,</hi> with 2 ships therein and 9 Guns.</p>
+               <p n="189">189 <hi>Mary</hi> Island summoned.</p>
+               <p n="190">190 Severall defeates given neere Waterford in Ireland,</p>
+               <p n="191">191 A party of the Scots beaten neere Glascoe.</p>
+               <p n="192">192 His Excellency marching from Glascoe▪ returned to Eden<g ref="char:EOLhyphen"/>burgh, clearing the Country as he passed without opposition, on<g ref="char:EOLhyphen"/>ly 3 or 4 of our men that were privatly murthered.</p>
+               <p n="193">193 The Lady <hi>Kelseeths</hi> house taken and burnt.</p>
+               <p n="194">194 Divers of the Sea-men at Mary Island disserted them.</p>
+               <p n="195">195 May 1. Lieut. Gen. <hi>Ludlow</hi> drove back severall parties in Ireland.</p>
+               <p n="196">196 The Lord Deputy drove back the Irish.</p>
+               <p n="197">197 A Party of the Scots forced to retreat to their King.</p>
+               <p n="198">198 The Irish worsted beyond the Shanon.</p>
+               <p n="199">199 <hi>Gardner</hi> hanged in <hi>Pauls</hi> Church-yard, and after hanged in chaines at Turnham Green.</p>
+               <p n="200">200 An house taken from the Scots near Blacknesse.</p>
+               <p n="201">201 The Scots worsted near Sterling.</p>
+               <p n="202">202. The Scots driven back from sixty Carriages which went to Boyall.</p>
+               <p n="203">203 The Scots forced from <hi>Hambleton</hi> by Commissary Gene<g ref="char:EOLhyphen"/>rall <hi>Whaley.</hi>
+               </p>
+               <p n="204">204 Mary Island, and the Island of Agads, the remainder of Scilly surrendred, 50 barrels of Powder, Match proportionable, abundance of great shot, and all their Ordnance.</p>
+               <p n="205">205 The Ultogh Forces in Ireland caused to with-draw from Conought.</p>
+               <p n="206">206 The Irish driven back near Athlone.</p>
+               <p n="207">207 Severall passes in the County of Gallow taken.</p>
+               <p n="208">208 Col. <hi>Hewson</hi> cleared the Country about Dublin.</p>
+               <p n="209">209 Sir <hi>Charls Coote</hi> in Conought, defeated <hi>Castle-haven.</hi>
+               </p>
+               <p n="210">210 Clonmell in Ireland secured.</p>
+               <p n="211">211 Cashill secured, and furnisht with supplyes.</p>
+               <p n="212">212 Nenagh releeved.</p>
+               <p n="213">213 Col. <hi>Venables</hi> scoured the Irish from West-meath.</p>
+               <p n="214">214 The Irish incursions in Tiperary prevented.</p>
+               <p n="215">215 Severall successes in the County of Kilkenny</p>
+               <p n="216">216 Col. <hi>Fitzpatrick</hi> routed at the Bur, and foure Troops of Horse taken.</p>
+               <p n="217">217 June 1. Athy in Ireland taken by Col. <hi>Hewson.</hi>
+               </p>
+               <p n="218">218 Monesterevin fortified.</p>
+               <p n="219">219 The Irish diverted from Conought.</p>
+               <p n="220">220 The Irish forced to quit Sir <hi>Robert Kings</hi> House, which they fired.</p>
+               <p n="221">221 A passe at the Shannon taken.</p>
+               <p n="223">223 Brians Bridge taken.</p>
+               <p n="224">224 Castle Connell taken.</p>
+               <p n="225">225 The Irish beaten at the Shannon</p>
+               <p n="226">226 <hi>Castle-haven</hi> and his Army threw downe their Armes and fled from the Lord Deputy.</p>
+               <p n="227">227 Divers of the Irish taken in pursuit.</p>
+               <p n="228">228 The Garrison of Rea taken.</p>
+               <p n="229">229 A party from Limbrick routed, one hundred horse taken, divers drowned.</p>
+               <p n="230">230 Col. <hi>Montgomery</hi> forced from Dumfreeze in Scotland.</p>
+               <p n="231">231 June 14. 140 of the Scots Kings party risen in Cardigan<g ref="char:EOLhyphen"/>shire in Wales, neer Lanbadarme, 1000. routed by the country forces, and 28 slaine upon the place, many wounded, sixty taken Prisoners.</p>
+               <p n="232">232 The Castle of Athlone surrendred to Sir <hi>Charls Coote.</hi>
+               </p>
+               <p n="233">233 All the passes and Garrisons in Ireland between Lim<g ref="char:EOLhyphen"/>brick and Athlone reduced.</p>
+               <p n="234">234 Limbrick besieged by the Lord Deputy.</p>
+               <p n="235">235 The Earles, <hi>Castle-haven</hi> and <hi>Clanrickard</hi> forced to fly to Galloway.</p>
+               <p n="236">236 The Irish Army driven to the mountains of Irconought.</p>
+               <p n="237">237 A thousand Horse dispersed at Ballingsto.</p>
+               <p n="238">238 The passe of Ballingsto taken.</p>
+               <p n="239">239 The Irish pursued to Maylag, and divers taken.</p>
+               <p n="240">240 Turm taken from the Irish.</p>
+               <p n="241">241 Irconought taken.</p>
+               <p n="242">242 Meleke taken.</p>
+               <p n="243">243 Roghcreogh taken.</p>
+               <p n="244">244 The Castle of Roscomon surrendred.</p>
+               <p n="245">245 A passe taken by the Lord Broughall, near Blainey.</p>
+               <p n="246">246 The Lord <hi>Mu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>keries</hi> Regiment routed, 16 Officers slain, store of Horses and Armes, 24 prisoners, most of them Officers, or Gentle▪ Sons</p>
+               <p n="247">247 Balmerinoes-house in Scotland taken.</p>
+               <p n="248">248 A party of the Scots worsted at Callender.</p>
+               <p n="249">249 Major Gen. <hi>Massey</hi> worsted near Torwood.</p>
+               <p n="250">250 July 1. The L. Generall faced the Scots Army with his whole Body, near Lieut. Gen. <hi>Baylies</hi> house</p>
+               <p n="251">251 Twelve prisoners taken from the Scots, and some slaine</p>
+               <p n="252">252 Falkirk taken.</p>
+               <p n="253">253 His Excellency marched to Glasco, in the face of the Scots whole Army.</p>
+               <p n="254">254 Divers of <hi>Montgomeries</hi> Forces scattered near Kilsley.</p>
+               <p n="255">255 A House &amp; Port taken from the Scots at Lunbarton Firth.</p>
+               <p n="256">256 Divers passes taken in Scotland by Maj. Gen. <hi>Lambert.</hi>
+               </p>
+               <p n="257">257 Sir <hi>Lodowick Stua<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> house taken, which was provided for the Scots King, and 16 barrels of meal, with other provisions.</p>
+               <p n="258">258 The Scots forced from Kilseth.</p>
+               <p n="259">259 A Fort taken of Fife side of the Firth, with an Harbour near Huerkeddy.</p>
+               <p n="260">260 Callender house taken by storme, the Governour slain and 60 more, and sixteen taken prisoners.</p>
+               <p n="261">261 New Leavies in the West of Scotland dispersed.</p>
+               <p n="262">262 Queenes-ferry taken and the Fort.</p>
+               <p n="263">263 North-ferry taken with five peece of Ordnance:</p>
+               <p n="264">264 Foure Forts and Towers of Fife side taken, with five peece of Ordnance in them.</p>
+               <p n="265">265 Six ships taken in the Harbours laden with Coales, and Salt, with 7 Guns.</p>
+               <p n="266">266 Five thousand Scots defeated on Fife side, 100 Officers slaine, amongst whom Col. <hi>Scot</hi> and 2400 private Souldiers, and there were ta<g ref="char:EOLhyphen"/>ken prisoners Maj: Gen: Sir <hi>John Browne,</hi> Col. <hi>Bewcanon,</hi> Lieu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: Col. <hi>White<g ref="char:EOLhyphen"/>head,</hi> and a Major, 13 Captaines, 13 Leiut. 13 Cornets, 29 Ensignes, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6 Sergeants, 5 Quartermasters, 25 Corporalls, and 1537 prisoners, 54 Co<g ref="char:EOLhyphen"/>lours, 3000 Armes, 300 Horse.</p>
+               <p n="267">267 All the <hi>Scots</hi> Workes at Torwood taken.</p>
+               <p n="268">268 Many sick and other <hi>Scots</hi> taken in Torwood, and in pursuite to<g ref="char:EOLhyphen"/>wards <hi>Sterling.</hi>
+               </p>
+               <p n="269">269 A quantity of powder and match taken from the Reare of the Scots Army.</p>
+               <p n="270">270 Two hundred Scots run away in their Kings flight to <hi>Ster<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g.</hi>
+               </p>
+               <p n="271">271 The Garison of <hi>Newarke</hi> retaken in Scotland</p>
+               <p n="272">272 Forty load of Provisions fetched out of the Sc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Quarters in Fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p n="273">273 The Castle of <hi>Weare</hi> in <hi>Ireland</hi> taken by Col. <hi>T<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ill</hi> by sto<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me.</p>
+               <p n="274">274 <hi>Bonnockborne</hi>-Castle taken from the Scots.</p>
+               <p n="275">275 Innesgarvy surrendred with 16 peece of Ordnance.</p>
+               <p n="276">276 Divers Tories taken, and some hanged.</p>
+               <p>177 An Island in <hi>Foxes</hi> County, and the Castle taken, twenty To<g ref="char:EOLhyphen"/>ries slaine.</p>
+               <p n="278">278 July 29. Brunt-land was surrendred, with 4 Men of Warre in the Harbour, and between 30 and 40 Guns.</p>
+               <p n="279">279 Three Forts more surrendred, with 60. peece of Ordnance, and divers ships on severall parts of the Firth.</p>
+               <p n="280">280 A strong fort on Fife side taken by storme.</p>
+               <p n="281">281 Limbrick in Ireland relieved.</p>
+               <p n="282">282 Johnstons Castle and Towne in Scotland surrendred.</p>
+               <p n="283">283 All the trenches, and Fastnesses south of Sterling quitted.</p>
+               <p n="284">284 Sterling Town taken by Lieut. Gen. <hi>Munke.</hi>
+               </p>
+               <p n="285">285 Aug, 6. The Scots King entring England near Carlisle, was pursued by his Excellency from Leith.</p>
+               <p n="286">286 The Scots marching over Warring. Bridge, Aug. 16. and fal<g ref="char:EOLhyphen"/>ling on Col. <hi>Rich</hi> his Guards, <hi>Crawford</hi> the Commander that led them and 28 more slaine.</p>
+               <p n="287">287 The strong Castle of Sterling, in which was the Records of Scotland, surrendred to Lieut. Gen. <hi>Munke,</hi> where was taken 40<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pee<g ref="char:EOLhyphen"/>ces of Ordnance, meale to serve 500 men a yeare, 40 odde barrels of Beefe, 5000 Armes, 26 barrels of Powder, 30 vessels of Wine, and store of Ammunition.</p>
+               <p n="288">288 Col. <hi>Danvers</hi> Governour of Stafford fell on the Scots out Quar<g ref="char:EOLhyphen"/>ters, near Tonge, and kild five of them.</p>
+               <p n="289">289 Thirty men kept Worcester against the Scots Army, while the Magazine was removed safe to Glocester.</p>
+               <p>Col. <hi>Cockrams</hi> forces in Scotland defeated by Col. <hi>Okey.</hi>
+               </p>
+               <p n="290">290 Irwin taken.</p>
+               <p n="291">291 The Laird <hi>Osbistou,</hi> Mr. <hi>Alexander,</hi> Mr. <hi>Henderson,</hi> and divers others of the Scots Commissioners taken prisoners at Pessey.</p>
+               <p n="292">292 The Lord <hi>Muskery</hi> routed by the L. <hi>Broghill,</hi> 500 Irish slaine.</p>
+               <p n="293">293 The Earl of <hi>Derby</hi> totally defeated the 25 Aug. at Wiggon in Lancashire, taken prisoners, Col. Sir <hi>Timothy Featherston haugh,</hi> Adjut. Gen. <hi>Calvert,</hi> Col. <hi>Rich. Legg,</hi> Col. <hi>Fbrogmorton,</hi> Col. <hi>Iohn Robbinson,</hi> Col. <hi>Louther,</hi> Col. <hi>Marlow,</hi> sonne to Sir <hi>Iohn Marlow;</hi> Col. <hi>Bay<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es,</hi> Col. <hi>Gay,</hi> Col. <hi>Ratcliffe Geraet,</hi> 4 Lieut. Colonels, 1 Major, 4 Captaines, 2 Lieu<g ref="char:EOLhyphen"/>tenants, 1 Quarter-master, 2 Gentlemen and Reformadoes, 400 private-Souldiers prisoners, all their Baggage, Sumpters, Armes, and Ammu<g ref="char:EOLhyphen"/>nition, the L. <hi>Derbies</hi> 3 Cloaks with Stars, his George, Garter, and Robes taken, and there were slaine on the place, and that after dyed on their wounds, the L. <hi>Widdrington,</hi> Maj. Gen. Sir <hi>Tho. Tildesley,</hi> and divers o<g ref="char:EOLhyphen"/>thers of quality, 60 private Souldiers, and 1500 totally routed, and 9 Colours taken.</p>
+               <p n="294">294 The passe taken at Upton, <hi>Massey</hi> wounded, 500 Horse routed and divers kild, and some taken.</p>
+               <p n="295">295 The Irish sallied out of Galloway but were beaten, and neare three hundred slaine.</p>
+               <p n="296">296 On Aug. 28. Col. <hi>Alured</hi> fell upon the Scots at Eliot in Scot<g ref="char:EOLhyphen"/>land, tooke Prisoners Earle of <hi>Leven,</hi> E. <hi>Marshall,</hi> E. of <hi>Craford,</hi> Lord <hi>Leigh, L. Ogleby,</hi> L. <hi>Burgonie,</hi> L. <hi>Humbe, L. Lea,</hi> 2 Knights, 8 Mini<g ref="char:EOLhyphen"/>sters, 20 other considerable Persons, and 70 private Souldiers.</p>
+               <p n="297">297 A Passe taken at the River Tey in Scotland by Lieutenant Generall <hi>Munke.</hi>
+               </p>
+               <p n="298">298 Twelve Gentlemen taken Prisoners at Dumfrize in Scotland.</p>
+               <p n="299">299 The Earl of Galloway routed at Maxilton, Sir <hi>Iohn Dalzell,</hi> Col. <hi>Kilhead,</hi> and 17 Officers and Gentlemen taken.</p>
+               <p n="300">300 Sept. 1. Dundee taken by storm with 2 Knights, 13 Col. Lieu. Col. Maj. and Cap. and other Officers, and slain Sir <hi>Rob. Lumsdale</hi> governour, and Lord <hi>Newton</hi> and divers more.</p>
+               <p n="301">301 Septem. 3. His Excellency had a glorious Victory over the Scots at Worcester, where were taken Prisoners D. <hi>Hamilton,</hi> the E. of <hi>Cor<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>worth,</hi> E. of <hi>Rothes,</hi> E: of <hi>Kerry,</hi> L. <hi>Spey,</hi> L. <hi>Sinclare,</hi> Sir <hi>John Packington,</hi> Sir <hi>John Douglas,</hi> Sir <hi>Jam. Graham,</hi> Sir <hi>Tho. Ʋrquart,</hi> Sir <hi>John Tompson,</hi> Sir <hi>Alex. Forbs,</hi> Sir <hi>Dav. Oglesby.</hi> 3. Maj. Gen. and 4 other Gen. and 12 other Col. 16 Leiu. Col. 21 Maj. 110 Capt. 136 Lieut. 76 Cornets, 21 Ensigns, 90 Quarterm, 9 Ministers, 9 Chyrurg. 30 of the Scots Kings domestick ser<g ref="char:EOLhyphen"/>vants, 8000 Prisoners upon the place, 2000 slain, 150 and odde Coulors taken, and all their Artillery, Ordnance, Ammunition, and great plunder in the Town.</p>
+               <p n="302">302 Taken in pursuit by Maj. Gen. <hi>Harrison,</hi> &amp; others, the E. of <hi>Derby</hi> E. of <hi>Lowderdaile.</hi> E of <hi>Kenmore,</hi> E. of <hi>Shrewsbury,</hi> the L. <hi>Wentworth,</hi> the L. <hi>Grandison,</hi> Col. <hi>Hume:</hi> &amp; divers other considerable persons, 2500 prisoners.</p>
+               <p n="303">303 The Inhabitants of <hi>Sandbach</hi> slew 9 Scots &amp; took 100 prisoners.</p>
+               <p n="304">304 Sir <hi>Wil. Hart,</hi> Col. <hi>Hamilton</hi> and others taken near <hi>Wemsley.</hi>
+               </p>
+               <p n="305">305 Maj G. <hi>Massey</hi> came in to the Countesse of <hi>Stamford,</hi> &amp; he and di<g ref="char:EOLhyphen"/>vers other in Leicester-shire taken prisoners by the L. <hi>Gray</hi> of Grooby.</p>
+               <p n="306">306 The E. of <hi>Cleaveland,</hi> Col. <hi>Blake,</hi> Maj. <hi>Galbreth,</hi> and about 300 more were taken by Col. <hi>Danvers</hi> and others in Staffordshire.</p>
+               <p n="307">307 Taken in Lancashire, <hi>L.</hi> G. <hi>Da. Leshley. L.</hi> G. <hi>Middleton,</hi> Col. <hi>Flem<g ref="char:EOLhyphen"/>ing,</hi> Col. <hi>Bartley,</hi> and 95 Officers more, with about 1200 private Soldiers.</p>
+               <p n="308">308 Taken in Yorkshire, the <hi>L. Hugh Montgomery,</hi> Col <hi>Ja Guardian,</hi> &amp; 24 other Officers, to Gent. 174. Souldiers, and 200 Horse brought to York, and the <hi>L. Kilmore,</hi> and his son, 3 Col. and 96 prisoners, and 100 horse brought to <hi>Tadeaster.</hi>
+               </p>
+               <p n="309">309 The town of <hi>Montrosse</hi> in Scotland taken by Col. <hi>Overton.</hi>
+               </p>
+               <p n="310">310 The town of Aberdeen in Scotland taken.</p>
+               <p n="311">311. <hi>Dundasse</hi> his Forces dispersed in Ireland.</p>
+               <p n="312">312 Culter Castle in Scotland taken.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi>
+            </p>
+            <p>Printed for <hi>Robert Ibbitson,</hi> 1651.</p>
+            <pb facs="tcp:122514:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
